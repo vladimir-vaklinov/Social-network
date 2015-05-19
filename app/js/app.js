@@ -1,0 +1,1 @@
+var SocialNetwork = angular.module('SocialNetwork', []);
